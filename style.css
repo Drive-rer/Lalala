@@ -1,0 +1,10 @@
+body {
+    background-color: #a9ffff;
+    font-family: cursive;
+    line-height: 1.3;
+}
+
+.title{
+    font-size: 55px;
+    color: rgb(24, 26, 25)
+}
