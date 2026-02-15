@@ -8,12 +8,12 @@ body {
     font-family: cursive;
 }
 
-.title{
+.page.title{
     font-size: 55px;
     color: rgb(24, 26, 25)
 }
 .card {
-    width: 200px;
+    width: 300px;
     margin: 30px auto;
     padding:20px;
     background-color: white;
@@ -25,4 +25,14 @@ body {
     display:block;
     margin: 0 auto;
     height: 200px;
+    border-radius: 50%;
+}
+.title {
+    font-size: 30px;
+    font-family: cursive;
+    
+}
+.opys{
+    font-family: Geneva, Tahoma, sans-serif;
+    font-size: 15px;
 }
